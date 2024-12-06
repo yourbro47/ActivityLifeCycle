@@ -12,3 +12,6 @@ The Activity Lifecycle in Android describes the states and callbacks that an Act
 6. **`onDestroy()`**: Called when the activity is being destroyed, either by the user or the system. Used for final cleanup.  
 
 These callbacks help manage the app's behavior during lifecycle transitions.
+
+![image](https://github.com/user-attachments/assets/1b8c9ad7-9459-4e6e-a18b-2083431c7c39)
+
